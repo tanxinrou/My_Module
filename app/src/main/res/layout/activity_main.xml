@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/tvc346"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/c346_android_programming" />
+
+    <TextView
+        android:id="@+id/tvc203"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/c203_web_appin_development_in_php" />
+
+    <TextView
+        android:id="@+id/tvc206"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/c206_software_development_process" />
+
+    <TextView
+        android:id="@+id/tvc218"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/c218_ui_ux_design_for_apps" />
+
+    <TextView
+        android:id="@+id/tvc227"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/c227_cumputer_system_technologies" />
+
+</LinearLayout>

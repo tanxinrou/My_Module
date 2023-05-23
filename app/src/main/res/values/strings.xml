@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Module</string>
+    <string name="c346_android_programming">C346 Android Programming</string>
+    <string name="c203_web_appin_development_in_php">C203 Web AppIn Development in php</string>
+    <string name="c206_software_development_process">C206 Software Development Process</string>
+    <string name="c218_ui_ux_design_for_apps">C218 UI/UX Design for Apps</string>
+    <string name="c227_cumputer_system_technologies">C227 Cumputer System Technologies</string>
+</resources>
